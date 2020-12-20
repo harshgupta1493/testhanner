@@ -16,6 +16,6 @@ if __name__ == '__main__':
     if hungry=='yes':
         print('have some food !!')
     else:
-        print('Enjoy your day !!')
+        print('Enjoy your day and happy Christmas!!')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
