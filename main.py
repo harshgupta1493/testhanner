@@ -12,5 +12,10 @@ def print_hi(name):
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi(input('Good Morning!!! Enter Your Name: \n'))
+    hungry = input("Are you Hungry??")
+    if hungry=='yes':
+        print('have some food !!')
+    else:
+        print('Enjoy your day !!')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
